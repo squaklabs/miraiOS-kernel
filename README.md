@@ -1,4 +1,3 @@
-# **MiraiCat**
 # About
 MiraiCat is a mobile operating system based on the open source verion of SymbianOS. The first versions will target comercial use, since this is the most efficient way to succed like Android, we will try our best and we wont use any proprietary software. More information about the devices we are going to support, the interface and the SDK will be uploaded soon.
 # Security
