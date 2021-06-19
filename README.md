@@ -6,4 +6,3 @@ SymbianOS was itself a secure platform so we dont really have to change a lot of
 On a proper operating system app development should be easy and free. Our SDK will be free and made for multiple platforms and maybe even for the web. The main languages for app development will be QT, Python, Java ME, Flash Lite, Ruby, .NET, Web Runtime and C/C++. We will also make the SDK look familiar for easibility reasons.
 # Branding and Naming
 Our naming comes from the word "mirai"(未来) which means "future" in Japanese and "cat" which represents speed and beauty.
-![mirailogo1](https://user-images.githubusercontent.com/82805203/115434155-0b243c80-a211-11eb-85b2-a0080896ab1e.png)
